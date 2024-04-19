@@ -1,12 +1,34 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+Olá, meu nome é Bruno.
 
-Obrigado!!!
+Estou em transição de carreira
+vindo de arquitetura
+para a área de tecnologia :)
+
+Vendo do interior do Paraná,
+de uma cidade chamada Imbituva,
+mas habito em Curitiba há 4 anos.
+
+Gosto de ir ao cinema 
+e dançar bachata rsrs.
+
+Gostei bastante do módulo de Ágil
+e sobre os 10 conceitos de 
+uma boa aplicação.
+Professor bastante acessível,
+é possível aprender com 
+as perguntas dos outros :D
+
+Tem um bugzinho na 
+hora de sair do campo de
+escrita pra ir pro botão de 
+"enviar".
+Ao dar "Tab" ao invés de ir 
+pro botão ele continua
+dentro da <textarea>.
+Bugzinho de acessibilidade.
+
+Até logo =)
 
 
